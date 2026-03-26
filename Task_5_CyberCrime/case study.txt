@@ -1,0 +1,14 @@
+Cybercrime Spotlight: UPI & Online Payment Fraud
+
+Definition: This involves deceptive practices where scammers trick users into transferring money or revealing sensitive financial credentials using Unified Payments Interface (UPI) apps or digital wallets. Unlike traditional hacking, this usually relies on social engineering—manipulating the victim into taking action themselves.
+
+
+Common Tactics to Watch For:
+
+1.The "Request Money" Scam: A scammer sends a "Collect Request" on a UPI app, claiming you are receiving money, but clicking "Pay" and entering your PIN actually sends money to them.
+
+2.Fake Customer Care Numbers: Fraudulent numbers listed on Google Maps for banks or delivery services that lead to scammers who ask for your OTP or PIN.
+
+3.Screen Mirroring Apps: Scammers ask you to download apps like AnyDesk or TeamViewer under the guise of "technical support" to see your screen and steal your credentials.
+
+4.QR Code Fraud: Being told that scanning a QR code is necessary to "receive a payment" for an item you are selling online (e.g., on OLX or Facebook Marketplace).
